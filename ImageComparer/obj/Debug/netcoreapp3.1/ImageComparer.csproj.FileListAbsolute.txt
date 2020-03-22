@@ -1,0 +1,17 @@
+C:\Users\Jacob\source\repos\ImageComparer\ImageComparer\bin\Debug\netcoreapp3.1\ImageComparer.exe
+C:\Users\Jacob\source\repos\ImageComparer\ImageComparer\obj\Debug\netcoreapp3.1\ImageComparer.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\ImageComparer\ImageComparer\obj\Debug\netcoreapp3.1\ImageComparer.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\ImageComparer\ImageComparer\obj\Debug\netcoreapp3.1\ImageComparer.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\ImageComparer\ImageComparer\bin\Debug\netcoreapp3.1\ImageComparer.deps.json
+C:\Users\Jacob\source\repos\ImageComparer\ImageComparer\bin\Debug\netcoreapp3.1\ImageComparer.runtimeconfig.json
+C:\Users\Jacob\source\repos\ImageComparer\ImageComparer\bin\Debug\netcoreapp3.1\ImageComparer.runtimeconfig.dev.json
+C:\Users\Jacob\source\repos\ImageComparer\ImageComparer\bin\Debug\netcoreapp3.1\ImageComparer.dll
+C:\Users\Jacob\source\repos\ImageComparer\ImageComparer\bin\Debug\netcoreapp3.1\ImageComparer.pdb
+C:\Users\Jacob\source\repos\ImageComparer\ImageComparer\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jacob\source\repos\ImageComparer\ImageComparer\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Jacob\source\repos\ImageComparer\ImageComparer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jacob\source\repos\ImageComparer\ImageComparer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jacob\source\repos\ImageComparer\ImageComparer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jacob\source\repos\ImageComparer\ImageComparer\obj\Debug\netcoreapp3.1\ImageComparer.csproj.CopyComplete
+C:\Users\Jacob\source\repos\ImageComparer\ImageComparer\obj\Debug\netcoreapp3.1\ImageComparer.dll
+C:\Users\Jacob\source\repos\ImageComparer\ImageComparer\obj\Debug\netcoreapp3.1\ImageComparer.pdb
